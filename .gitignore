@@ -1,0 +1,16 @@
+.DS_Store
+*.png
+
+# โฟลเดอร์ Flutter (ปรับ path ให้ตรงกับชื่อโฟลเดอร์)
+**/build/
+**/.dart_tool/
+week6_api_lab/linux/
+week6_api_lab/macos/
+week6_api_lab/windows/
+week6_api_lab/android/
+week6_api_lab/ios/
+
+# Secrets
+**/.env
+**/.env.*
+!.env.example
