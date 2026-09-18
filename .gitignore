@@ -1,5 +1,5 @@
 .DS_Store
-*.png
+
 
 # โฟลเดอร์ Flutter (ปรับ path ให้ตรงกับชื่อโฟลเดอร์)
 **/build/
